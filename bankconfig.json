@@ -1,0 +1,220 @@
+{
+          "bank": [
+                    {
+                              "BankCodeID": "1029",
+                              "BankCodeName": "ABBank",
+                              "Abbreviation": "ABB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1003",
+                              "BankCodeName": "ACB",
+                              "Abbreviation": "ACB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1030",
+                              "BankCodeName": "Agribank",
+                              "Abbreviation": "AGB",
+                              "State": 1
+                    },
+                    {
+                              "BankCodeID": "1023",
+                              "BankCodeName": "Bac A Bank",
+                              "Abbreviation": "BACAB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1031",
+                              "BankCodeName": "BaoVietBank",
+                              "Abbreviation": "BVB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1007",
+                              "BankCodeName": "BIDV",
+                              "Abbreviation": "BIDV",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1005",
+                              "BankCodeName": "DongAbank",
+                              "Abbreviation": "DAB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1008",
+                              "BankCodeName": "Eximbank",
+                              "Abbreviation": "EXB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1022",
+                              "BankCodeName": "GPBank",
+                              "Abbreviation": "GPB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1011",
+                              "BankCodeName": "Hdbank",
+                              "Abbreviation": "HDB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1027",
+                              "BankCodeName": "HSBC",
+                              "Abbreviation": "HSBC",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1017",
+                              "BankCodeName": "Indovina",
+                              "Abbreviation": "IVB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1032",
+                              "BankCodeName": "KienLongBank",
+                              "Abbreviation": "KienLongBank",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1033",
+                              "BankCodeName": "LienVietPostBank",
+                              "Abbreviation": "LPB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1025",
+                              "BankCodeName": "Maritime",
+                              "Abbreviation": "MSB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1028",
+                              "BankCodeName": "Mbbank",
+                              "Abbreviation": "MBB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1013",
+                              "BankCodeName": "Nam A bank",
+                              "Abbreviation": "NAB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1021",
+                              "BankCodeName": "NCB",
+                              "Abbreviation": "NCB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1016",
+                              "BankCodeName": "OCB Phuong Dong",
+                              "Abbreviation": "OCB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1010",
+                              "BankCodeName": "Oceanbank",
+                              "Abbreviation": "OJB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1024",
+                              "BankCodeName": "Pgbank",
+                              "Abbreviation": "PGB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1020",
+                              "BankCodeName": "PVCombank",
+                              "Abbreviation": "PVB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1002",
+                              "BankCodeName": "Sacombank",
+                              "Abbreviation": "STB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1034",
+                              "BankCodeName": "SaiGonBank",
+                              "Abbreviation": "SGB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1015",
+                              "BankCodeName": "Seabank",
+                              "Abbreviation": "SEA",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1035",
+                              "BankCodeName": "SHB",
+                              "Abbreviation": "SHB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1036",
+                              "BankCodeName": "ShinHanBank",
+                              "Abbreviation": "Shinhanbank",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1004",
+                              "BankCodeName": "Techcombank",
+                              "Abbreviation": "TCB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1019",
+                              "BankCodeName": "TPbank",
+                              "Abbreviation": "TPB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1012",
+                              "BankCodeName": "TMCP SAIGON",
+                              "Abbreviation": "SCB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1009",
+                              "BankCodeName": "VIBbank",
+                              "Abbreviation": "VIB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1014",
+                              "BankCodeName": "VietA Bank",
+                              "Abbreviation": "VAB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1026",
+                              "BankCodeName": "Vietbank",
+                              "Abbreviation": "VIETBANK",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1001",
+                              "BankCodeName": "Vietcombank",
+                              "Abbreviation": "VCB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1006",
+                              "BankCodeName": "Vietinbank",
+                              "Abbreviation": "VTB",
+                              "State": 0
+                    },
+                    {
+                              "BankCodeID": "1018",
+                              "BankCodeName": "VPBank",
+                              "Abbreviation": "VPB",
+                              "State": 1
+                    }
+          ]
+}

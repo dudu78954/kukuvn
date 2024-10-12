@@ -86,7 +86,7 @@
                     },
                     {
                               "BankCodeID": "1025",
-                              "BankCodeName": "Maritime",
+                              "BankCodeName": "MSB",
                               "Abbreviation": "MSB",
                               "State": 0
                     },
